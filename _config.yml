@@ -1,0 +1,55 @@
+# Site
+name: "The Brew Newb"
+title: "The Brew Newb"
+description: "A home brew blog to keep the recipes I brewed."
+logo: 'assets/images/site/logo.png'
+favicon: 'assets/images/site/logo.png'
+
+baseurl: ''
+google_analytics: ''
+disqus: 'demowebsite'
+include: ["_pages"]
+permalink: /:title/
+
+# Authors
+authors:
+  ryan:
+    name: Ryan
+    display_name: Ryan    
+    avatar: 'assets/images/author/ryan.png'
+    email: ryan@thebrewnewb.com
+    web: https://www.thebrewnewb.com
+    twitter: https://twitter.com/logitblog
+    description: "Ryan is a true newb in home brewing but got infected by the brewing virus. He loves IPA's and Rusian Imperial Stouts."
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  # - jekyll-seo-tag
+  # - jekyll-archives
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-3412143450191416"
+adsense-data-ad-slot: "1363087678"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
