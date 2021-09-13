@@ -5,12 +5,12 @@ author: ryan
 categories: [ IPA ]
 tags: [mango, spicy]
 image: assets/images/recipes/spicy-mango-ipa/spicy-mango-ipa-feature-image.jpg
-description: "My review of Inception movie. Acting, plot and something else in this short description."
+description: "This is a first brew using a new kettle for a fresh spicy mango IPA. A clean IPA spiced up using peppers during the brew."
 hidden: true
 #rating: 4.5
 ---
 
-This is a first brew using a new cetle for a fresh spicy mango IPA. A clean IPA spicyed up using peppers during the brew. All the credits goes to Ramon from the Hobbybrouwen forum, as this is his recipy.
+This is a first brew using a new kettle for a fresh spicy mango IPA. A clean IPA spiced up using peppers during the brew. All the credits goes to Ramon from the Hobbybrouwen forum, as this is his recipy.
 
 ## Information
 
