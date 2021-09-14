@@ -9,6 +9,7 @@ description: "This is a first brew using a new kettle for a fresh spicy mango IP
 hidden: true
 #rating: 4.5
 ---
+<iframe src="https://open.spotify.com/embed/track/4kdjHU5lzooUP7kkzQqX0Q" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 This is a first brew using a new kettle for a fresh spicy mango IPA. A clean IPA spiced up using peppers during the brew. All the credits goes to Ramon from the Hobbybrouwen forum, as this is his recipy.
 
