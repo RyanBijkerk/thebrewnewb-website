@@ -7,9 +7,10 @@ tags: [Introduction, Welcome, BrewNewb]
 image: assets/images/recipes/hellow-brew-introduction/hellow-brew-introduction-feature-image.png
 description: "Hellow Brew! Welcome to the Brew Newb, a personal blog to keep track of the brewing recipes."
 hidden: false
+toc: true
+beforetoc: "Hellow Brew! Welcome to the Brew Newb, a personal blog to keep track of the brewing recipes. So let's first start to share some background information on why the hop I'm doing this."
 #rating: 4.5
 ---
-Hellow Brew! Welcome to the Brew Newb, a personal blog to keep track of the brewing recipes. So let's first start to share some background information on why the hop I'm doing this.
 
 ## Introduction in brewing
 Like many, I got infected with the brewing virus by my wife, who gave me a homebrew starting kit. While postponing the brew due to the impressive list of brew steps I finally dared to get started and found it very fun to do! My first brew was two years ago, brewing a basic IPA from the [Brouwbroeders (BrewBrothers)](https://www.brouwbroeders.nl/products/starterspakket-ipa){:target="_blank"}.
