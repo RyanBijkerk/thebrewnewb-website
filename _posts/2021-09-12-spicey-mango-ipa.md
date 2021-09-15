@@ -9,7 +9,7 @@ description: "This is a first brew using a new kettle for a fresh spicy mango IP
 hidden: true
 #rating: 4.5
 ---
-<iframe src="https://open.spotify.com/embed/track/4kdjHU5lzooUP7kkzQqX0Q" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/1lK8OlJuuoVsGHsWaKFAfk" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 This is a first brew using a new kettle for a fresh spicy mango IPA. A clean IPA spiced up using peppers during the brew. All the credits goes to Ramon from the Hobbybrouwen forum, as this is his recipy.
 
@@ -17,33 +17,34 @@ This is a first brew using a new kettle for a fresh spicy mango IPA. A clean IPA
 
 | Description | Value |
 | :---------- | :---- | 
-| Characteristic | 50 |
-| Name recipy | Mango Unchained (2019-03) |
-| Brew date | 2019-03-10 |
+| Name recipy | Mango Unchained |
 | Style | American IPA |
-| Volume | 23.5 L |
-| Start SG | 1.072 SG |
-| End SG | 1.00 SG |
-| Vergistinggraad | 84.7%|
-| Alchol | 7.9% |
-| Color | 24 EBC |
-| Bitter | 84 IBU |
-| Brouwzaalrendement | 60% |
-| Brew time | 75 min |
+| Alchol | 7.7% |
+| Batch Volume | 10 L |
+| Boil Time | 75 min |
+| Mash Water |  15.8 L |
+| Sparge Water | 2.74 L |
+| Total Water | 18.54 L |
+| Boil Volume | 15.21 L |
+| Pre-Boil Gravity | 1.054 SG |
+| Original Gravity | 1.072 SG |
+| Final Gravity | 1.013 SG| 
+| Bitter | 63 IBU (Tinseth) |
+| Color | 26 EBC |
 
 ## Ingredients
 
 | Amount | Type | Vendor | Name | Property | 
 | :----- | :--- |  :------- | :------- | :------- | 
-| 2.5 KG | Malt | BrewFarm | Gerstemout Pale | 9 EBC |
-| 300 G | Malt | BrewFarm | Gerstemout Münchener | 15 EBC | 
-| 130 G | Malt | BrewFarm | Gerstemout Cara-120 | 120 EBC | 
-| 25 G  | Hops | | Northern Brewer | pellets |
-| 17 G  | Hops | | Simcoe  | pellets |
-| 20 G  | Hops | | Amarillo | pellets |
-| 9 G  | Hops | | Citra  | leafs |
-| 1.0 KG  | Fruit | | Mango  |  |
-| 2 X  | Peper | | Madame Jeanette  |  |
+| 3.5 kg | Malt | BrewFarm | Gerstemout Pale | 9 EBC |
+| 400 g | Malt | BrewFarm | Gerstemout Münchener | 15 EBC | 
+| 200 g | Malt | BrewFarm | Gerstemout Cara-120 | 120 EBC | 
+| 25 g  | Hops | | Northern Brewer | pellets |
+| 29 g  | Hops | | Simcoe  | pellets |
+| 21 g  | Hops | | Amarillo | pellets |
+| 18 g  | Hops | | Citra  | leafs |
+| 1.0 kg  | Fruit | | Mango  |  |
+| 2 x  | Pepers | | Madame Jeanette  |  |
 
 
 ## The Brew
