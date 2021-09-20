@@ -12,7 +12,7 @@ beforetoc: <iframe src="https://open.spotify.com/embed/track/1lK8OlJuuoVsGHsWaKF
 #rating: 4.5
 ---
 This is a first brew using a new kettle for a spicy mango IPA. This recipy is collected from the [Hobbybrouwen](http://hobbybrouwen.nl/){:target="_blank"} forum and created by [Ramon](https://www.hobbybrouwen.nl/forum/index.php/topic,39916.0.html){:target="_blank"} from 
-[Milky Road Brewery](https://www.milkyroadbrewery.nl/){:target="_blank"}. It is an IPA using 5 different hops including fresh mango and Madame Jeanette peppers. This beer won the first price at the ONK back in 2019, described as well balanced bitterness with sweet with a nice bite of the peppers.
+[Milky Road Brewery](https://www.milkyroadbrewery.nl/){:target="_blank"}. It is an IPA using 5 different hops including fresh mango and Madame Jeanette peppers. This beer won the first price at the ONK (Open Dutch Championships amateur beer brewing) back in 2019, described as well balanced bitterness with sweet with a nice bite of the peppers.
 
 To scale the recipy to the 10 liters [BrewFather](https://share.brewfather.app/uBb7GSyMzVQaiY){:target="_blank"} is used.
 
