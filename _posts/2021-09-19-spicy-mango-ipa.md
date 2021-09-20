@@ -57,7 +57,7 @@ A small mistake was made in when ordering the hops so I recieved Amarillo leafs 
 ## The Brew
 It's brew day! Excited to get started, and the first step is to crush the malts.
 
-![spicy-mango-ipa-malt-crush]({{site.baseurl}}assets/images/recipes/spicy-mango-ipa/spicy-mango-ipa-crushed-malt.jpg)
+![spicy-mango-ipa-malt-crush]({{site.baseurl}}/assets/images/recipes/spicy-mango-ipa/spicy-mango-ipa-crushed-malt.jpg)
 
 ### Mash profile
 The following mash schema is used:
@@ -70,7 +70,7 @@ The following mash schema is used:
 
 As this is the first time using the new kettle, I'm not 100% sure how to ensure control the ramp time. So in this case I decided to ensure the temperature is reached, and at that point start the timer.
 
-![spicy-mango-ipa-leaking-mash]({{site.baseurl}}assets/images/recipes/spicy-mango-ipa/spicy-mango-ipa-leaking-mash.jpg)
+![spicy-mango-ipa-leaking-mash]({{site.baseurl}}/assets/images/recipes/spicy-mango-ipa/spicy-mango-ipa-leaking-mash.jpg)
 
 ### Boil
 The following boiling schema is used:
@@ -89,7 +89,7 @@ There are multiple methods to add the mango, but in this case, I have decided to
 
 Now in this case I used the whole mango including the skin. Make sure to wash them thoroughly before adding them.
 
-![spicy-mango-ipa-fresh-mango.jpg]({{site.baseurl}}assets/images/recipes/spicy-mango-ipa/spicy-mango-ipa-fresh-mango.jpg.jpg)
+![spicy-mango-ipa-fresh-mango.jpg]({{site.baseurl}}/assets/images/recipes/spicy-mango-ipa/spicy-mango-ipa-fresh-mango.jpg.jpg)
 
 Now my gravity came a bit higher than expected, which is 1.080 SG instead of the 1.072 SG. This might be caused by the mango, but I'm 100% sure. If I'm correct, this will boost the alcohol to 8.9% instead of 7.7%. This is of course fully depending on the fermentation process.
 
