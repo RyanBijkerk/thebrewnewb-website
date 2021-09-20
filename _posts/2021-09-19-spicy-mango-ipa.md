@@ -85,7 +85,7 @@ The following boiling schema is used:
 | 5 g | Hops | Simcoe | 5 min |
 | 9 g | Hops | Citra | 0 min (Flameout) |
 
-\* <em>My first brew I used a 60 min, which should have been 15 min, oops.</em>
+\* <em>My first brew I used a 60 min, which should have been 15 min, oops. See note below.</em>
 
 There are multiple methods to add the mango, but in this case, I have decided to include them in the boil because of the following reason. I really want to use fresh mangos, but when adding them in the dry hopping phase you need to cook them to avoid any infections caused by the bacteria. To reduce this risk, I decided to include it in the boil. 
 
@@ -94,8 +94,6 @@ Now in this case I used the whole mango including the skin. Make sure to wash th
 ![spicy-mango-ipa-fresh-mango]({{site.baseurl}}/assets/images/recipes/spicy-mango-ipa/spicy-mango-ipa-fresh-mango.jpg)
 
 Now my gravity came a bit higher than expected, which is 1.080 SG instead of the 1.072 SG. This might be caused by the mango, but I'm 100% sure. If I'm correct, this will boost the alcohol to 8.9% instead of 7.7%. This is of course fully dependent on the fermentation process. Now I have decided the hour based on a Youtube video, but I did notice (a bit too late) Ramon has usually added both peppers and mango for 15 min.
-
-Based on this I have updated the 
 
 ### Dry hop
 The following dry hopping schema is used:
