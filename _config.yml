@@ -6,7 +6,7 @@ logo: 'assets/images/site/logo.png'
 favicon: 'assets/images/site/logo.png'
 
 baseurl: ''
-google_analytics: 'G-KP3CB3B6NT'
+google_analytics: 'UA-207409511-1'
 disqus: 'thebrewnewb-1'
 include: ["_pages"]
 permalink: /:title/
