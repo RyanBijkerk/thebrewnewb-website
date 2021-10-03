@@ -100,20 +100,30 @@ The following dry hopping schema is used:
 
 | Amount | Type | Name | Days |
 | :----- | :--- | :--- | :--- |
-| 11 g | Hops | Cascade | Day 4 |
-| 11 g | Hops | Simcoe | Day 4 |
-| 9 g | Hops | Citra | Day 4 |
-| 7 g | Hops | Amarillo | Day 4 |
+| 11 g | Hops | Cascade | Day 10 |
+| 11 g | Hops | Simcoe | Day 10 |
+| 9 g | Hops | Citra | Day 10 |
+| 7 g | Hops | Amarillo | Day 10 |
 
 This still needs to be done, but based on the feedback received from Ramon I might postpone the dry hopping at a later stage to increase the fresh hoppy flavours.
 
 ### Fermentation
 The fementation is on 20°C for 14 days.
 
+### Bottling
+To get the carbonation the secondary fermentation on the bottle method is used. A 7 gram a liter of regular crystal sugar is added.
+
+![spicy-mango-ipa-bottle-bucket]({{site.baseurl}}/assets/images/recipes/spicy-mango-ipa/spicy-mango-ipa-bottle-bucket.jpeg)
+
 ## Notes
 This recipy is also avaiable on [BrewFather](https://share.brewfather.app/uBb7GSyMzVQaiY){:target="_blank"}.
 
 Note for my self, next time, ensure to use the hop bags or a hopping basket because the filter was clogged up. This is also needed for the mango.
 
+![spicy-mango-ipa-bottles]({{site.baseurl}}/assets/images/recipes/spicy-mango-ipa/spicy-mango-ipa-bottles.jpeg)
+
+Final gravity is a bit higher than expected, 1021 SG, which makes the final alcohol percentage 7.7%, which is exactly as the recipe described.
+There was a clear taste of hops in combination with spicy flavors, which makes me very curious about the final result!
+
 ## Conclusion
-Brew is still in fermentation.
+The brew is bottled and resting for a total of 14 days.
