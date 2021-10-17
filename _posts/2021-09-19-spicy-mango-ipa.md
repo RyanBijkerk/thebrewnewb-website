@@ -9,7 +9,7 @@ description: "This is a first brew using a new kettle for a fresh spicy mango IP
 hidden: false
 toc: true
 beforetoc: <iframe src="https://open.spotify.com/embed/track/1lK8OlJuuoVsGHsWaKFAfk" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-#rating: 4.5
+rating: 4.0
 ---
 This is a first brew using a new kettle for a spicy mango IPA. This recipy is collected from the [Hobbybrouwen](http://hobbybrouwen.nl/){:target="_blank"} forum and created by [Ramon](https://www.hobbybrouwen.nl/forum/index.php/topic,39916.0.html){:target="_blank"} from 
 [Milky Road Brewery](https://www.milkyroadbrewery.nl/){:target="_blank"}. It is an IPA using 5 different hops including fresh mango and Madame Jeanette peppers. This beer won the first price at the ONK (Open Dutch Championships amateur beer brewing) back in 2019, described as well balanced bitterness with sweet with a nice bite of the peppers.
@@ -105,8 +105,6 @@ The following dry hopping schema is used:
 | 9 g | Hops | Citra | Day 10 |
 | 7 g | Hops | Amarillo | Day 10 |
 
-This still needs to be done, but based on the feedback received from Ramon I might postpone the dry hopping at a later stage to increase the fresh hoppy flavours.
-
 ### Fermentation
 The fementation is on 20°C for 14 days.
 
@@ -126,4 +124,10 @@ Final gravity is a bit higher than expected, 1021 SG, which makes the final alco
 There was a clear taste of hops in combination with spicy flavors, which makes me very curious about the final result!
 
 ## Conclusion
-The brew is bottled and resting for a total of 14 days.
+The color is great, very bright orange but a little bit on the dark side with a nice foamy head. Overall I'm very happy, it is definitely fruity and you can smell the mango but I did find it hard to taste the mango. There is a nice spicy feeling to it, makes you a bit warm inside, and is not overruling. It is on the edge, so next time I would use a bit fewer peppers to reduce the spicy bite.
+
+[!spicy-mango-ipa-result](https://untappd.akamaized.net/photos/2021_10_15/31be5752bcc9068c50013e1bc8e5e28d_raw.jpg)
+
+[Untappd check-in](https://untappd.com/user/ryan_ververs_bijkerk/checkin/1087989635){:target="_blank"}.
+
+I did experience some white flakes in the beer, probably caused by leftovers of the hops or egg whites from the malt. So next time I need to ensure to filter better.
