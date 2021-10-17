@@ -126,7 +126,7 @@ There was a clear taste of hops in combination with spicy flavors, which makes m
 ## Conclusion
 The color is great, very bright orange but a little bit on the dark side with a nice foamy head. Overall I'm very happy, it is definitely fruity and you can smell the mango but I did find it hard to taste the mango. There is a nice spicy feeling to it, makes you a bit warm inside, and is not overruling. It is on the edge, so next time I would use a bit fewer peppers to reduce the spicy bite.
 
-[!spicy-mango-ipa-result](https://untappd.akamaized.net/photos/2021_10_15/31be5752bcc9068c50013e1bc8e5e28d_raw.jpg)
+![spicy-mango-ipa-result](https://untappd.akamaized.net/photos/2021_10_15/31be5752bcc9068c50013e1bc8e5e28d_raw.jpg)
 
 [Untappd check-in](https://untappd.com/user/ryan_ververs_bijkerk/checkin/1087989635){:target="_blank"}.
 
