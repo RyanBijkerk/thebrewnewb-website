@@ -4,15 +4,14 @@ title:  "Bunny Hops - Dry-hopped Belgian Blond"
 author: ryan
 categories: [ Belgian Blond ]
 tags: [blond]
-image: assets/images/recipes/spicy-mango-ipa/spicy-mango-ipa-feature-image.jpg
+image: assets/images/recipes/dry-hopped-belgian-blond/dry-hopped-belgian-blond-feature-image.png
 description: "Bunny hop, a belgian dry-hopped blond."
-hidden: true
+hidden: false
 toc: true
-beforetoc: <iframe src="https://open.spotify.com/embed/track/1lK8OlJuuoVsGHsWaKFAfk" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+beforetoc: <iframe src="https://open.spotify.com/embed/track/4BP3uh0hFLFRb5cjsgLqDh" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 #rating: 4.5
 ---
-into
-
+In honor of my neighbor his favorite style, the next recipe is a Beligum Blond. When looking for a recipe, I did not want just a plain Belgium blond but with something extra, so, therefore, I have decided to go for a dry-hopped edition. Just like previously, this recipe is based on a winning recipe that is shared on the [hobbybrouwen](https://www.hobbybrouwen.nl/forum/index.php/topic,34387.0.html){:target="_blank"} forum by [Sjaak](https://www.hobbybrouwen.nl/forum/index.php?action=profile;u=5935){:target="_blank"}. There are no details shared on the forum regarding the flavor profile, so we have to wait and see what the outcome will be.
 
 ## Information
 
@@ -49,9 +48,7 @@ The following ingredients are used. Please note, all links to the various ingred
 | 1 x | Yeast | White Labs | [WLP550 Belgian Ale yeast](https://www.braumarkt.com/en/white-labs-wlp550-belgian-ale-yeast){:target="_blank"} | |
 
 ## The Brew
-It's brew day! Excited to get started, and the first step is to crush the malts.
-
-![spicy-mango-ipa-malt-crush]({{site.baseurl}}/assets/images/recipes/spicy-mango-ipa/spicy-mango-ipa-crushed-malt.jpg)
+The first step is crushing the malts and this time I made sure to adjust the mill a bit wider to ensure the crush is not too fine. 
 
 ### Mash profile
 The following mash schema is used:
@@ -60,7 +57,7 @@ The following mash schema is used:
 | :---- | :-----------| :--- | :-------- | 
 | Beta/Alpha-amylase | 66°C | 75 min | 0 min |
 
-![spicy-mango-ipa-leaking-mash]({{site.baseurl}}/assets/images/recipes/spicy-mango-ipa/spicy-mango-ipa-leaking-mash.jpg)
+![dry-hopped-belgian-blond-mash]({{site.baseurl}}/assets/images/recipes/dry-hopped-belgian-blond/dry-hopped-belgian-blond-mash.jpg)
 
 ### Boil
 The following boiling schema is used:
@@ -74,22 +71,24 @@ The following boiling schema is used:
 | 10 g | Hops | Saaz | 15 min |
 | 5.5 g | Hops | Cascade | 15 min |
 
-
-Now my gravity came a bit higher than expected, which is 1.080 SG instead of the 1.072 SG. This might be caused by the mango, but I'm 100% sure. If I'm correct, this will boost the alcohol to 8.9% instead of 7.7%. This is of course fully dependent on the fermentation process. Now I have decided the hour based on a Youtube video, but I did notice (a bit too late) Ramon has usually added both peppers and mango for 15 min.
+The gravity came out on a 1.064 SG which means the potential ABV is 7.3% which is a bit higher than expected. Based on the previous brew, I do expect to level out due to the fermentation.
 
 ### Dry hop
 The following dry hopping schema is used:
 
 | Amount | Type | Name | Days |
 | :----- | :--- | :--- | :--- |
-| 50 g | Hops | Mandarina Bavaria | Day 7 |
+| 60 g | Hops | Mandarina Bavaria | Day 7 |
+
+The original recipe describes 6 grams a liter for dry-hopping. Now I was not 100% sure about the volume in the fermentation bucket, so decided to just go with 60 g for the 10 liters.
 
 ### Fermentation
-The fementation is on 20°C for 14 days.
+The fermentation is at 20°C for 14 days. To get clear the beer I decided to try a cold crash. After 14 days I lowered the temperature to 2°C but the fridge only reached 6°C. I left it for 6 days in total.
 
 ### Bottling
-To get the carbonation the secondary fermentation on the bottle method is used. A 4 gram a liter of regular crystal sugar is added.
+To get the carbonation the secondary fermentation on the bottle method is used. A 4 gram a liter of regular crystal sugar is added. The final gravity came on 1.014 which should be an ABV of 6.6%, which is spot on to the original recipe.
 
+Tasting the sample did make me worry because there was an unpleasant flavor, which I cannot identify. The closed description I have for now is earthy tones. This might be due to the cold crash means the dry-hopping is also longer, or it can also be an infection. However, there were no visible molts and the beer was really clear, even though the recommended temperature for cold crashing was not reached, it did make a difference. 
 
 ## Notes
 This recipy is also avaiable on [BrewFather](https://share.brewfather.app/pMAzBTXSm7YuVA){:target="_blank"}.
